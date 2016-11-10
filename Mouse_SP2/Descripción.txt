@@ -1,0 +1,2 @@
+El programa consiste en la lectura de la señal emitida por un mouse de entrada PS2, y trasmitiendo está información a un arduino y 
+luego mostrandola mediante un lcd.
